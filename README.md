@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Leveraging Geometric Priors for Unaligned Scene Change Detection</h1>
 
-<a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" rel="noopener noreferrer">
+<a href="https://arxiv.org/abs/2509.11292" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b" alt="arXiv">
 </a>
 <!-- <a href="#"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a> -->
