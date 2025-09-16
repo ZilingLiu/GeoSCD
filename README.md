@@ -15,4 +15,4 @@
 
 ---
 
-📢 The code and pretrained models will be released upon paper acceptance. Stay tuned!  
+📢 The code will be released upon paper acceptance. Stay tuned!  
