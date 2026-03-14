@@ -1,0 +1,11 @@
+einops==0.8.1
+matplotlib==3.8.4
+opencv-python==4.11.0.86           
+pycocotools==2.0.8
+scikit-image                        
+tqdm==4.67.1
+huggingface_hub
+pycolmap==3.10.0
+git+https://github.com/jytime/LightGlue.git#egg=lightglue
+hydra-core
+torchmetrics
