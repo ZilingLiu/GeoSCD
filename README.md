@@ -29,18 +29,7 @@ We propose a **training-free scene change detection framework** that leverages g
   <br>
   <b>Our Method</b>
 </div>
-<!-- ### Highlights
 
-- ✅ Training-free pipeline  
-- ✅ Robust to viewpoint and pose variations  
-- ✅ Explicit geometric correspondence via VGGT  
-- ✅ High-quality masks via SAM  
-- ✅ Supports multiple datasets:
-  - ChangeSim
-  - PASLCD
-  - PSCD
-
---- -->
 
 # Installation
 
